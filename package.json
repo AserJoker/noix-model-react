@@ -29,5 +29,9 @@
   "files": [
     "dist/**/*",
     "types/**/*"
-  ]
+  ],
+  "author": {
+    "name": "aserjoker",
+    "email": "aserjoker@outlook.com"
+  }
 }
