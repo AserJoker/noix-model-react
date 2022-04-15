@@ -4,7 +4,7 @@ Adapter for [@noix/model](https://github.com/AserJoker/noix-model) with [react](
 
 ## Prerequisite
 
-If you want use dialog, you need to wrap the component where you call related methods inside Container and use useModel/useDispatch to get the API.
+If you want use model, you need to wrap the component where you call related methods inside Container and use useModel/useDispatch to get the API.
 
 ```jsx
 //App.jsx
